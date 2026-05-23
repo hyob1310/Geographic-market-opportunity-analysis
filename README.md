@@ -59,7 +59,6 @@ Several limitations were identified during analysis:
 
 Customer records were heavily concentrated within several metro Atlanta communities.
 
-![customer concentration by city](Chart1.png)
 
 #### Top Customer Concentration Areas
 | Geographic Area | Share of Customer Base |
@@ -79,8 +78,6 @@ Several high-concentration areas corresponded with communities experiencing sign
 Most customers were concentrated within the organization's primary operating state.
 
 A smaller percentage of customers resided in neighboring and remote states, indicating a primarily regional customer base supplemented by limited remote service activity.
-
-![customer concentration by state](Chart2.png)
 
 
 ### Country-of-Origin Analysis
